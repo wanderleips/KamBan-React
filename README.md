@@ -1,2 +1,2 @@
 # KamBan-React
-Created with CodeSandbox
+Linkdo projeto [aqui](https://bkcjdz.csb.app/)
